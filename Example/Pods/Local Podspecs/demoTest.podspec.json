@@ -1,0 +1,22 @@
+{
+  "name": "demoTest",
+  "version": "0.1.0",
+  "summary": "测试打包上传到 GitHub",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shen5214444887",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shen5214444887": "zhbshen@wisepool.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/shen5214444887/demoTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "demoTest/Classes/**/*"
+}
