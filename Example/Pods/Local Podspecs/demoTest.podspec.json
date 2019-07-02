@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "demoTest/Classes/**/*"
+  "swift_versions": "4.2",
+  "source_files": "demoTest/Classes/**/*",
+  "swift_version": "4.2"
 }
